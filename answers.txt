@@ -1,0 +1,8 @@
+//Jillian Pfarr
+//Lab 1
+//5-22-22
+
+3. When using the command ls > newfile.txt, I noticed it created a new text tile with said name. I believe the > creates the text file when combined with ls.
+
+5. It says there is a new file with that name.
+6. It shows in green the new added change to the file.
